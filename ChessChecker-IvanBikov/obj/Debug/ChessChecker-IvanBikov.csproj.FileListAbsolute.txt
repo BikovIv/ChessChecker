@@ -1,0 +1,8 @@
+H:\Repos\Console Applications\ChessChecker-IvanBikov\ChessChecker-IvanBikov\bin\Debug\ChessChecker-IvanBikov.exe.config
+H:\Repos\Console Applications\ChessChecker-IvanBikov\ChessChecker-IvanBikov\bin\Debug\ChessChecker-IvanBikov.exe
+H:\Repos\Console Applications\ChessChecker-IvanBikov\ChessChecker-IvanBikov\bin\Debug\ChessChecker-IvanBikov.pdb
+H:\Repos\Console Applications\ChessChecker-IvanBikov\ChessChecker-IvanBikov\bin\Debug\ChessDotNet.dll
+H:\Repos\Console Applications\ChessChecker-IvanBikov\ChessChecker-IvanBikov\obj\Debug\ChessChecker-IvanBikov.csprojResolveAssemblyReference.cache
+H:\Repos\Console Applications\ChessChecker-IvanBikov\ChessChecker-IvanBikov\obj\Debug\ChessChecker-IvanBikov.csproj.CoreCompileInputs.cache
+H:\Repos\Console Applications\ChessChecker-IvanBikov\ChessChecker-IvanBikov\obj\Debug\ChessChecker-IvanBikov.exe
+H:\Repos\Console Applications\ChessChecker-IvanBikov\ChessChecker-IvanBikov\obj\Debug\ChessChecker-IvanBikov.pdb
